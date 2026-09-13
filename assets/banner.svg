@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="김범수 Beomsu Kim — Data Analyst · AI × Business">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1e3f"/>
+      <stop offset="0.55" stop-color="#173a7a"/>
+      <stop offset="1" stop-color="#2a69b3"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.55" stop-color="#0b1e3f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2a69b3" stop-opacity="0.35"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#ffffff" opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect x="720" y="0" width="480" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#fade)"/>
+
+  <!-- accent bar -->
+  <rect x="46" y="70" width="6" height="166" rx="3" fill="#7db1ff"/>
+
+  <text x="72" y="66" font-family="'Apple SD Gothic Neo','Segoe UI',Arial,sans-serif" font-size="15" letter-spacing="6" fill="#bcd4ff" opacity="0.92">PORTFOLIO &#183; DATA &#215; AI &#215; BUSINESS</text>
+
+  <text x="70" y="152" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="64" font-weight="800" fill="#ffffff">김범수<tspan font-size="32" font-weight="500" fill="#cfe0ff" dx="18">Beomsu Kim</tspan></text>
+
+  <text x="72" y="200" font-family="'Apple SD Gothic Neo','Segoe UI',Arial,sans-serif" font-size="29" font-weight="700" fill="#7db1ff">Data Analyst &#183; AI &#215; Business</text>
+
+  <text x="72" y="240" font-family="'Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="18" fill="#e6eefc" opacity="0.85">데이터로 문제를 정의하고, 실행 가능한 전략까지 연결합니다.</text>
+</svg>
