@@ -41,7 +41,7 @@
 | 프로젝트 | 소개 | 스택 |
 |:--|:--|:--|
 | **[솔비(SOL-B) · 신한카드 빅콘테스트](https://github.com/AISWKimBeomSu/shcard_2025_bigcontest)**<br><sub>[▶ Live Demo](https://momentum3bigcontest.streamlit.app)</sub> | 실 가맹점 결제 데이터를 JOIN·전처리·분석해 소상공인 맞춤 마케팅 전략을 답하는 LangGraph RAG 에이전트 | `Python` `SQL` `LangGraph` `RAG` `Streamlit` |
-| **연구실 데이터 입력 자동화 (RA)** &nbsp;`비공개` | 24시간 회상법 식이 데이터 전처리·입력을 Playwright로 자동화한 RPA 파이프라인 · 연세대 심리학부 | `Python` `Playwright` `pandas` |
+| **[연구실 데이터 입력 자동화 (RA)](https://github.com/AISWKimBeomSu/canpro-data-automation)** | 24시간 회상법 식이 데이터 전처리·입력을 Playwright로 자동화한 RPA 파이프라인 · 연세대 심리학부 | `Python` `Playwright` `pandas` |
 | **[서울 이모삼촌](https://github.com/AISWKimBeomSu/seoul-imosamchon)** | 시니어(5060+) 모집 브랜드 웹 · 서울시 50플러스재단 **사업화 협약** | `Next.js` `TypeScript` `Supabase` |
 | **[PULSEFALL](https://github.com/AISWKimBeomSu/pulsefall)**<br><sub>[▶ Live Demo](https://aiswkimbeomsu.github.io/pulsefall/)</sub> | 의존성 0·에셋 0으로 만든 리듬 반사 아케이드 · NHN NAN 2026 | `JavaScript` `Canvas` |
 | **[AI Safe Walking Assistant](https://github.com/AISWKimBeomSu/WalkingAssistant)** | 시각장애인 보행 내비 엔진 — 방위각 보정 · 2m 단위 경로 이탈 감지 | `Kotlin` `T-map API` |
