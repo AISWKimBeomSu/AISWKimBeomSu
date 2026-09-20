@@ -42,7 +42,7 @@
 
 | 프로젝트 | 소개 | 스택 |
 |:--|:--|:--|
-| 🤖&nbsp;**[솔비&nbsp;(SOL-B)](https://github.com/AISWKimBeomSu/shcard_2025_bigcontest)**<br><sub>소상공인 마케팅 AI 에이전트</sub><br><sub>신한카드 빅콘테스트 <b>본선 진출</b></sub> | 실 가맹점 결제·유동인구 데이터를 JOIN·전처리·분석해 소상공인 맞춤 마케팅 전략을 답하는 LangGraph RAG 에이전트 | `Python` `SQL` `LangGraph` `RAG` `Streamlit` |
+| 🤖&nbsp;**[솔비&nbsp;(SOL-B)](https://github.com/AISWKimBeomSu/shcard_2025_bigcontest)**<br><sub>소상공인 마케팅 AI 에이전트</sub><br><sub>신한카드&nbsp;빅콘테스트&nbsp;<b>본선&nbsp;진출</b></sub> | 실 가맹점 결제·유동인구 데이터를 JOIN·전처리·분석해 소상공인 맞춤 마케팅 전략을 답하는 LangGraph RAG 에이전트 | `Python` `SQL` `LangGraph` `RAG` `Streamlit` |
 | ⚙️&nbsp;**[연세대학교&nbsp;RA](https://github.com/AISWKimBeomSu/canpro-data-automation)**<br><sub>데이터 입력 자동화 (RPA)</sub><br><sub>연세대 심리학부</sub> | 24시간 회상법 식이 데이터 전처리·입력을 Playwright로 자동화한 RPA 파이프라인 — 사람이 하던 반복 입력을 그대로 대체 | `Python` `Playwright` `pandas` |
 | 🏦&nbsp;**[FranSCORE](https://github.com/AISWKimBeomSu/KB_franSCORE)**<br><sub>가맹점 여신 브랜드 리스크</sub><br><sub>KB국민은행 AI Challenge</sub> | 공정위 공시·가맹본부 감사보고서로 외식 프랜차이즈 **1,521개 브랜드**의 1년 내 구조악화 위험을 등급화 — 심사·사후관리 화면까지 | `Python` `LightGBM` `SHAP` `Streamlit` |
 | 👥&nbsp;**[서울&nbsp;이모삼촌](https://github.com/AISWKimBeomSu/seoul-imosamchon)**<br><sub>시니어 모집 플랫폼</sub><br><sub>50플러스재단 <b>사업화 협약</b></sub> | 시니어(5060+)를 모집하는 브랜드 웹 — 지원 폼부터 관리자 화면까지, 실제 운영을 전제로 만든 서비스 | `Next.js` `TypeScript` `Supabase` |
