@@ -44,6 +44,7 @@
 |:--|:--|:--|
 | **[솔비(SOL-B) · 소상공인 마케팅 AI 에이전트](https://github.com/AISWKimBeomSu/shcard_2025_bigcontest)**<br><sub>[▶ Live Demo](https://momentum3bigcontest.streamlit.app)</sub> | 실 가맹점 결제 데이터를 JOIN·전처리·분석해 소상공인 맞춤 마케팅 전략을 답하는 LangGraph RAG 에이전트 | `Python` `SQL` `LangGraph` `RAG` `Streamlit` |
 | **[연세대학교 RA · 데이터 입력 자동화 (RPA)](https://github.com/AISWKimBeomSu/canpro-data-automation)** | 24시간 회상법 식이 데이터 전처리·입력을 Playwright로 자동화한 RPA 파이프라인 · 연세대 심리학부 | `Python` `Playwright` `pandas` |
+| **[FranSCORE · 가맹점 여신 브랜드 리스크](https://github.com/AISWKimBeomSu/KB_franSCORE)**<br><sub>[▶ Live Demo](https://kb-franscore.streamlit.app)</sub> | 공정위 공시·가맹본부 감사보고서로 외식 프랜차이즈 1,521개 브랜드의 1년 내 구조악화 위험을 등급화 — 심사·사후관리 화면까지 · KB국민은행 AI Challenge | `Python` `LightGBM` `SHAP` `Streamlit` |
 | **[서울 이모삼촌 · 시니어 모집 플랫폼](https://github.com/AISWKimBeomSu/seoul-imosamchon)** | 시니어(5060+) 모집 브랜드 웹 · 서울시 50플러스재단 **사업화 협약** | `Next.js` `TypeScript` `Supabase` |
 | **[PULSEFALL · 리듬 반사 아케이드](https://github.com/AISWKimBeomSu/pulsefall)**<br><sub>[▶ Live Demo](https://aiswkimbeomsu.github.io/pulsefall/)</sub> | 의존성 0·에셋 0으로 만든 리듬 반사 아케이드 · NHN NAN 2026 | `JavaScript` `Canvas` |
 | **[AI Safe Walking · 시각장애인 보행 내비](https://github.com/AISWKimBeomSu/WalkingAssistant)** | 시각장애인 보행 내비 엔진 — 방위각 보정 · 2m 단위 경로 이탈 감지 | `Kotlin` `T-map API` |
